@@ -10,7 +10,7 @@
 
 
 ## Project Details
-| Team ID       | PNT2022TMID34843            |
+| Team ID       | PNT2022TMID34843             |
 | ------------- | -------------                |
 | Technology    | Cloud Application Development|
 |  Domain       | Banking & Finance            | 
