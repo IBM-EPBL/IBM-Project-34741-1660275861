@@ -54,4 +54,5 @@ Personal finance applications will ask users to add their expenses and based on 
 ## Final deliverables
    
 - [Code](https://github.com/IBM-EPBL/IBM-Project-34741-1660275861/tree/main/Final%20Deliverables/Final%20Code)
-
+- [Report](https://github.com/IBM-EPBL/IBM-Project-34741-1660275861/blob/main/Final%20Deliverables/Project%20Report.pdf)
+- [Demo Video](
